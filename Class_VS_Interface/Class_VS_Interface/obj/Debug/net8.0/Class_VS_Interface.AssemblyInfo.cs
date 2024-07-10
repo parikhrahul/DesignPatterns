@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class_VS_Interface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e1347d845bb246041ea8bdd48a8365a2a41e61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5a74c31b32f26cce7d029480fc9e815f8188cdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class_VS_Interface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class_VS_Interface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

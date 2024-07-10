@@ -29,18 +29,22 @@ using System;
 
 Brendan eich = new Brendan();
 Sanjay sanjay = new Sanjay();
-MessagePassing _messagePassing = new("Anders");
-_messagePassing.Message("Eat", "Mengo");
-_messagePassing.Message("Sleep", "6 hours");
+Order placeOrder = new Order();
+//MessagePassing _messagePassing = new("Anders");
+//_messagePassing.Message("Eat", "Mengo");
+//_messagePassing.Message("Sleep", "6 hours");
 
-eich.eat();
-eich.sleep();
-eich.love();
-eich.run();
-eich.writeCode();
+//eich.eat();
+//eich.sleep();
+//eich.love();
+//eich.run();
+//eich.writeCode();
 
-sanjay.playMusic();
-sanjay.writeCode();
+//sanjay.playMusic();
+//sanjay.writeCode();
+
+var device = placeOrder.PlaceOrder("PC", 2, 32, 500, 14 );
+Console.WriteLine(device?.GetInfo());
 
 Console.ReadLine();
 
