@@ -12,3 +12,4 @@ D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\ref
 D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.pdb
 D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.genruntimeconfig.cache
 D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\ref\Class_VS_Interface.dll
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.sourcelink.json

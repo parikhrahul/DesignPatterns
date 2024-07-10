@@ -29,7 +29,9 @@ using System;
 
 Brendan eich = new Brendan();
 Sanjay sanjay = new Sanjay();
-
+MessagePassing _messagePassing = new("Anders");
+_messagePassing.Message("Eat", "Mengo");
+_messagePassing.Message("Sleep", "6 hours");
 
 eich.eat();
 eich.sleep();
@@ -41,5 +43,4 @@ sanjay.playMusic();
 sanjay.writeCode();
 
 Console.ReadLine();
-
 
