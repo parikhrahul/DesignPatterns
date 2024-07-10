@@ -1,0 +1,14 @@
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\bin\Debug\net8.0\Class_VS_Interface.exe
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\bin\Debug\net8.0\Class_VS_Interface.deps.json
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\bin\Debug\net8.0\Class_VS_Interface.runtimeconfig.json
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\bin\Debug\net8.0\Class_VS_Interface.dll
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\bin\Debug\net8.0\Class_VS_Interface.pdb
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.AssemblyInfoInputs.cache
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.AssemblyInfo.cs
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.csproj.CoreCompileInputs.cache
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.dll
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\refint\Class_VS_Interface.dll
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.pdb
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.genruntimeconfig.cache
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\ref\Class_VS_Interface.dll
