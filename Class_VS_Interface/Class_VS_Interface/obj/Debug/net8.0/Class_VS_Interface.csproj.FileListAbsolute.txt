@@ -13,3 +13,7 @@ D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Cla
 D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.genruntimeconfig.cache
 D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\ref\Class_VS_Interface.dll
 D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.sourcelink.json
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\bin\Debug\net8.0\itextsharp.dll
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\bin\Debug\net8.0\PdfHelpers.dll
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.csproj.AssemblyReference.cache
+D:\POC\DesignPatterns\Class_VS_Interface\Class_VS_Interface\obj\Debug\net8.0\Class_VS_Interface.csproj.CopyComplete
