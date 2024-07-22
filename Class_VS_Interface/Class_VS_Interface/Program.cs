@@ -135,11 +135,11 @@ location.print();
 locationStack.SaveState(location.SaveState());
 
 Console.WriteLine("\nDeleteing state");
-location.DeleteState(locationStack.DeleteState());
+location.DeleteState((LocationMemento)locationStack.DeleteState());
 location.print();
-location.DeleteState(locationStack.DeleteState());
+location.DeleteState((LocationMemento)locationStack.DeleteState());
 location.print();
-location.DeleteState(locationStack.DeleteState());
+location.DeleteState((LocationMemento)locationStack.DeleteState());
 location.print();
 
 //Console.WriteLine(myResume);
